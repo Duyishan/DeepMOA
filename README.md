@@ -1,10 +1,4 @@
-## DeepDMI: an interpretable deep learning framework for predicting drug-microbe interactions
-
-For making DeepDMI available at no cost to the community, we have set a **[web service](https://deepdmi.github.io/)** predicting drug-microbe interactions. 
-[https://deepdmi.github.io/]( https://deepdmi.github.io/)
-
-
-
+## An interpretable deep learning framework for predicting drug-microbe interactions
 
 ### Architecture   
 ![](/img/deepdmi.png)
